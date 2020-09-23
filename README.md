@@ -16,4 +16,4 @@
 Screenshots
 
 ![Home](/screenshot/1.png?raw=true "Home")
-![Detail](/screenshot/2.pngs?raw=true "Detail")
+![Detail](/screenshot/2.png?raw=true "Detail")
