@@ -1,0 +1,6 @@
+{
+    "project1": {
+        "module1": ["https://hn.svelte.dev/top/1"],
+        "module2": ["https://angular2-hn.firebaseapp.com/news/1", "https://hn-polymer-2.firebaseapp.com/"]
+    }
+}

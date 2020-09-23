@@ -1,0 +1,8 @@
+build/*
+.DS_Store
+node_modules/
+client/reports/*
+server/reports/*
+cli/reports/*
+cli/public/*
+cli/build/*

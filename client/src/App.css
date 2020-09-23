@@ -1,0 +1,66 @@
+.App {
+  text-align: center;
+}
+
+.chart-container{
+  position: relative;
+}
+
+.chart-score{
+  position:absolute;
+  left: 50%;
+  top:50%;
+  transform: translate(-50%, -50%);
+  font-size: 1.6rem;;
+}
+.stat-list{
+  display: flex;
+  flex-wrap: wrap;
+}
+.stat-list > * {
+  flex:0 calc(50% - 100px);
+}
+.text-left{
+  text-align: left;
+  padding: 0.3rem;
+}
+
+.stat-header{
+  background-color: darkslateblue;
+  color:#f1f1f1;
+
+}
+.stat-header a{
+  color:#c1c1c1;
+}
+.topbar-nav{
+  display: flex;
+  margin-left: 40px;
+}
+.topbar-nav > * {
+  margin: 5px;
+}
+.download-container{
+  width: 100%;
+
+  display: flex;
+  justify-content: space-evenly;
+
+  align-items: center;
+}
+.download-container .download a{
+  text-decoration: none;;
+  display: flex;
+  flex-direction: column;
+}
+.download-container .rmwc-icon{
+  font-size: 4em;
+}
+.console-output{
+  max-width: calc(100vw - 300px);
+  word-wrap: break-word;
+  font-family: monospace;
+  text-align: start;
+    overflow: scroll;
+
+}
