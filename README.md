@@ -1,5 +1,7 @@
 # webaudit
 
+Webaudit can run lighthouse on your web application pages, and uploads on bundled server. Performance score be seen on dashboard for each run to track performance continuously.
+
 ## How to use
 1. Clone repo `git clone git@github.com:akmittal/webaudit.git` 
 2. Goto main repo `cd webaudit`
