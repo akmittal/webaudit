@@ -6,3 +6,4 @@ server/reports/*
 cli/reports/*
 cli/public/*
 cli/build/*
+.eslintcache
